@@ -1,0 +1,4 @@
+rootProject.name = 'master-project'
+include 'api'
+include 'core'
+
